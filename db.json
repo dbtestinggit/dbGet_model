@@ -99,7 +99,6 @@
   ],
    
   "engine":[
-  
     {
        "id": "1",
        "name": "Electric"
@@ -116,5 +115,5 @@
        "id": "4",
        "name": "Hybrid"
     }
-  ]
+  ],
 }
