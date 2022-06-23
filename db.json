@@ -96,23 +96,5 @@
         "phoneNumber": "+38 (098) 278 44 00",
         "image": "https://cdn.wallpapersafari.com/46/37/UKPw1D.png"
     }
-  ],
-  "engine": [
-    {
-        "id": 1,
-        "name": "Electric",
-    },
-    {
-        "id": 2,
-        "name": "Gasoline",
-    },
-    {
-        "id": 3,
-        "name": "Hybrid",
-    },
-    {
-        "id": 4,
-        "name": "Diesel",
-    }
   ]
 }
