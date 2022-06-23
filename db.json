@@ -6,7 +6,7 @@
         "engine": "Electric",
         "email": "JeromeKlarkaJeromeKlarka19233623...",
         "phoneNumber": "+38 (098) 278 76 24",
-        "image": "https://wallpapers-hub.art/wallpaper-images/486524.jpg"
+        "image": "https://raw.githubusercontent.com/dbtestinggit/dbGet_model/main/images/1.webp"
     },
     {
         "id": 2,
@@ -14,7 +14,7 @@
         "engine": "Electric",
         "email": "Takamuru@gmail.com",
         "phoneNumber": "+38 (098) 278 76 24",
-        "image": "https://cdn.wallpapersafari.com/29/99/ORdo2J.jpg"
+        "image": "https://raw.githubusercontent.com/dbtestinggit/dbGet_model/main/images/2.webp"
     },
     {
         "id": 3,
@@ -22,7 +22,7 @@
         "engine": "Electric",
         "email": "Ilya_founder@gmail.com",
         "phoneNumber": "+38 (098) 235 44 24",
-        "image": "https://live.staticflickr.com/1887/44639336172_bfb7699cc4_b.jpg"
+        "image": "https://raw.githubusercontent.com/dbtestinggit/dbGet_model/main/images/3.webp"
     },
     {
         "id": 4,
@@ -30,7 +30,7 @@
         "engine": "Electric",
         "email": "Alexandr_develop@gmail.com",
         "phoneNumber": "+38 (098) 198 44 24",
-        "image": "https://wallpaperaccess.com/full/486595.jpg"
+        "image": "https://raw.githubusercontent.com/dbtestinggit/dbGet_model/main/images/4.webp"
     },
     {
         "id": 5,
@@ -38,7 +38,7 @@
         "engine": "Electric",
         "email": "Winny_develop@gmail.com",
         "phoneNumber": "+38 (098) 278 22 88",
-        "image": "https://wallpaperaccess.com/full/486526.jpg"
+        "image": "https://raw.githubusercontent.com/dbtestinggit/dbGet_model/main/images/5.webp"
     },
     {
         "id": 6,
@@ -46,7 +46,7 @@
         "engine": "Electric",
         "email": "Simon@gmail.com",
         "phoneNumber": "+38 (098) 278 44 00",
-        "image": "https://c4.wallpaperflare.com/wallpaper/98/321/301/black-tesla-model-s-2015-wallpaper-preview.jpg"
+        "image": "https://raw.githubusercontent.com/dbtestinggit/dbGet_model/main/images/6.webp"
     },
     {
         "id": 7,
@@ -54,7 +54,7 @@
         "engine": "Electric",
         "email": "JeromeKlarkaJeromeKlarka19233623...",
         "phoneNumber": "+38 (098) 278 76 24",
-        "image": "https://wallpaperaccess.com/full/1485627.jpg"
+        "image": "https://raw.githubusercontent.com/dbtestinggit/dbGet_model/main/images/7.webp"
     },
     {
         "id": 8,
@@ -62,7 +62,7 @@
         "engine": "Electric",
         "email": "Takamuru@gmail.com",
         "phoneNumber": "+38 (098) 278 76 24",
-        "image": "https://wallpaperaccess.com/full/6983883.jpg"
+        "image": "https://raw.githubusercontent.com/dbtestinggit/dbGet_model/main/images/8.webp"
     },
     {
         "id": 9,
@@ -70,7 +70,7 @@
         "engine": "Electric",
         "email": "Ilya_founder@gmail.com",
         "phoneNumber": "+38 (098) 235 44 24",
-        "image": "https://www.hdcarwallpapers.com/walls/white_tesla_model_s-HD.jpg"
+        "image": "https://raw.githubusercontent.com/dbtestinggit/dbGet_model/main/images/9.webp"
     },
     {
         "id": 10,
@@ -78,7 +78,7 @@
         "engine": "Electric",
         "email": "Alexandr_develop@gmail.com",
         "phoneNumber": "+38 (098) 198 44 24",
-        "image": "https://c4.wallpaperflare.com/wallpaper/97/27/831/tesla-model-s-electric-car-4k-wallpaper-preview.jpg"
+        "image": "https://raw.githubusercontent.com/dbtestinggit/dbGet_model/main/images/10.webp"
     },
     {
         "id": 11,
@@ -86,7 +86,7 @@
         "engine": "Electric",
         "email": "Winny_develop@gmail.com",
         "phoneNumber": "+38 (098) 278 22 88",
-        "image": "https://wallpapercave.com/wp/wp1821211.jpg"
+        "image": "https://raw.githubusercontent.com/dbtestinggit/dbGet_model/main/images/11.webp"
     },
     {
         "id": 12,
@@ -94,7 +94,7 @@
         "engine": "Electric",
         "email": "Simon@gmail.com",
         "phoneNumber": "+38 (098) 278 44 00",
-        "image": "https://cdn.wallpapersafari.com/46/37/UKPw1D.png"
+        "image": "https://raw.githubusercontent.com/dbtestinggit/dbGet_model/main/images/12.webp"
     }
   ]
 }
