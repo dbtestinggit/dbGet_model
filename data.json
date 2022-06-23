@@ -1,11 +1,101 @@
 {
-  "posts": [
+  "items":[
     {
       "id": 1,
-      "title": "hello"
+      "name": "Salvador Stewart Flynn Thomas Salva...",
+      "position": "Leading specialist of the department o...",
+      "email": "JeromeKlarkaJeromeKlarka19233623...",
+      "phoneNumber": "+38 (098) 278 76 24",
+      "image": "https://weready.xyz/testtaskData/team/team1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Takamaru Ayako Jurrien",
+      "position": "Lead Independent Director",
+      "email": "Takamuru@gmail.com",
+      "phoneNumber": "+38 (098) 278 76 24",
+      "image": "https://weready.xyz/testtaskData/team/team2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ilya",
+      "position": "Co-Founder and CEO",
+      "email": "Ilya_founder@gmail.com",
+      "phoneNumber": "+38 (098) 235 44 24",
+      "image": "https://weready.xyz/testtaskData/team/team3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Alexandre",
+      "position": "Lead Independent Director",
+      "email": "Alexandr_develop@gmail.com",
+      "phoneNumber": "+38 (098) 198 44 24",
+      "image": "https://weready.xyz/testtaskData/team/team4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Winny",
+      "position": "Former Senior Director",
+      "email": "Winny_develop@gmail.com",
+      "phoneNumber": "+38 (098) 278 22 88",
+      "image": "https://weready.xyz/testtaskData/team/team5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Simon",
+      "position": "President of Commerce",
+      "email": "Simon@gmail.com",
+      "phoneNumber": "+38 (098) 278 44 00",
+      "image": "https://weready.xyz/testtaskData/team/team6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Salvador Stewart Flynn Thomas Salva...",
+      "position": "Leading specialist of the department o...",
+      "email": "JeromeKlarkaJeromeKlarka19233623...",
+      "phoneNumber": "+38 (098) 278 76 24",
+      "image": "https://weready.xyz/testtaskData/team/team1.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Takamaru Ayako Jurrien",
+      "position": "Lead Independent Director",
+      "email": "Takamuru@gmail.com",
+      "phoneNumber": "+38 (098) 278 76 24",
+      "image": "https://weready.xyz/testtaskData/team/team2.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Ilya",
+      "position": "Co-Founder and CEO",
+      "email": "Ilya_founder@gmail.com",
+      "phoneNumber": "+38 (098) 235 44 24",
+      "image": "https://weready.xyz/testtaskData/team/team3.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Alexandre",
+      "position": "Lead Independent Director",
+      "email": "Alexandr_develop@gmail.com",
+      "phoneNumber": "+38 (098) 198 44 24",
+      "image": "https://weready.xyz/testtaskData/team/team4.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Winny",
+      "position": "Former Senior Director",
+      "email": "Winny_develop@gmail.com",
+      "phoneNumber": "+38 (098) 278 22 88",
+      "image": "https://weready.xyz/testtaskData/team/team5.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Simon",
+      "position": "President of Commerce",
+      "email": "Simon@gmail.com",
+      "phoneNumber": "+38 (098) 278 44 00",
+      "image": "https://weready.xyz/testtaskData/team/team6.jpg"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
+
 }
