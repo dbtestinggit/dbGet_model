@@ -3,6 +3,7 @@
     {
         "id": 1,
         "name": "Clark",
+        "model": "Model S",
         "engine": "Electric",
         "email": "lgkndsflk@gmail.com",
         "phoneNumber": "+122200000000",
@@ -11,6 +12,7 @@
     {
         "id": 2,
         "name": "Dixon",
+        "model": "Model S",
         "engine": "Hybrid",
         "email": "Hjerffsd@gmail.com",
         "phoneNumber": "+122200000000",
@@ -19,6 +21,7 @@
     {
         "id": 3,
         "name": "Turner",
+        "model": "Model Y",
         "engine": "Electric",
         "email": "Hhfsf_founder@gmail.com",
         "phoneNumber": "+122200000000",
@@ -28,6 +31,7 @@
         "id": 4,
         "name": "Miller",
         "engine": "Gasoline",
+        "model": "Model Y",
         "email": "Dggdf_mod@gmail.com",
         "phoneNumber": "+122200000000",
         "image": "https://raw.githubusercontent.com/dbtestinggit/dbGet_model/main/images/4.webp"
@@ -35,6 +39,7 @@
     {
         "id": 5,
         "name": "Ramos",
+        "model": "Model S",
         "engine": "Electric",
         "email": "Fedm_develop@gmail.com",
         "phoneNumber": "+122200000000",
@@ -43,6 +48,7 @@
     {
         "id": 6,
         "name": "Harris",
+        "model": "Model S",
         "engine": "Electric",
         "email": "Germy@gmail.com",
         "phoneNumber": "+122200000000",
@@ -51,6 +57,7 @@
     {
         "id": 7,
         "name": "Hawkins",
+        "model": "Model 3",
         "engine": "Electric",
         "email": "KJHfsd@gmail.com",
         "phoneNumber": "+122200000000",
@@ -58,7 +65,8 @@
     },
     {
         "id": 8,
-        "name": "Model Y",
+        "name": "Harry",
+        "model": "Model 3",
         "engine": "Electric",
         "email": "Matamo_dev@gmail.com",
         "phoneNumber": "+122200000000",
@@ -67,6 +75,7 @@
     {
         "id": 9,
         "name": "John",
+        "model": "Model S",
         "engine": "Electric",
         "email": "Found_ceo@gmail.com",
         "phoneNumber": "+122200000000",
@@ -75,6 +84,7 @@
     {
         "id": 10,
         "name": "Paul",
+        "model": "Model Y",
         "engine": "Electric",
         "email": "Fdevelop_@gmail.com",
         "phoneNumber": "+122200000000",
@@ -83,6 +93,7 @@
     {
         "id": 11,
         "name": "Sean",
+        "model": "Model Y",
         "engine": "Electric",
         "email": "Mod_devdevelop@gmail.com",
         "phoneNumber": "+122200000000",
@@ -91,6 +102,7 @@
     {
         "id": 12,
         "name": "Phillipe",
+        "model": "Model 3",
         "engine": "Electric",
         "email": "Hojii_@gmail.com",
         "phoneNumber": "+122200000000",
