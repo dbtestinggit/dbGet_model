@@ -1,5 +1,5 @@
 {
-    "items":[
+  "items": [
     {
         "id": 1,
         "name": "Model S",
@@ -96,8 +96,8 @@
         "phoneNumber": "+38 (098) 278 44 00",
         "image": "https://cdn.wallpapersafari.com/46/37/UKPw1D.png"
     }
-]
-    "engine":{
+  ],
+  "engine": [
     {
         "id": 1,
         "name": "Electric",
@@ -114,6 +114,5 @@
         "id": 4,
         "name": "Diesel",
     }
-}
-
+  ]
 }
