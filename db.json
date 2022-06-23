@@ -1,100 +1,101 @@
 {
-  "items":[
+    "items":[
     {
-      "id": 1,
-      "name": "Model S",
-      "engine": "Electric",
-      "email": "JeromeKlarkaJeromeKlarka19233623...",
-      "phoneNumber": "+38 (098) 278 76 24",
-      "image": "https://wallpapers-hub.art/wallpaper-images/486524.jpg"
+        "id": 1,
+        "name": "Model S",
+        "engine": "Electric",
+        "email": "JeromeKlarkaJeromeKlarka19233623...",
+        "phoneNumber": "+38 (098) 278 76 24",
+        "image": "https://wallpapers-hub.art/wallpaper-images/486524.jpg"
     },
     {
-      "id": 2,
-      "name": "Model S",
-      "engine": "Electric",
-      "email": "Takamuru@gmail.com",
-      "phoneNumber": "+38 (098) 278 76 24",
-      "image": "https://cdn.wallpapersafari.com/29/99/ORdo2J.jpg"
+        "id": 2,
+        "name": "Model S",
+        "engine": "Electric",
+        "email": "Takamuru@gmail.com",
+        "phoneNumber": "+38 (098) 278 76 24",
+        "image": "https://cdn.wallpapersafari.com/29/99/ORdo2J.jpg"
     },
     {
-      "id": 3,
-      "name": "Model 3",
-      "engine": "Electric",
-      "email": "Ilya_founder@gmail.com",
-      "phoneNumber": "+38 (098) 235 44 24",
-      "image": "https://live.staticflickr.com/1887/44639336172_bfb7699cc4_b.jpg"
+        "id": 3,
+        "name": "Model 3",
+        "engine": "Electric",
+        "email": "Ilya_founder@gmail.com",
+        "phoneNumber": "+38 (098) 235 44 24",
+        "image": "https://live.staticflickr.com/1887/44639336172_bfb7699cc4_b.jpg"
     },
     {
-      "id": 4,
-      "name": "Model Y",
-      "engine": "Electric",
-      "email": "Alexandr_develop@gmail.com",
-      "phoneNumber": "+38 (098) 198 44 24",
-      "image": "https://wallpaperaccess.com/full/486595.jpg"
+        "id": 4,
+        "name": "Model Y",
+        "engine": "Electric",
+        "email": "Alexandr_develop@gmail.com",
+        "phoneNumber": "+38 (098) 198 44 24",
+        "image": "https://wallpaperaccess.com/full/486595.jpg"
     },
     {
-      "id": 5,
-      "name": "Model 3",
-      "engine": "Electric",
-      "email": "Winny_develop@gmail.com",
-      "phoneNumber": "+38 (098) 278 22 88",
-      "image": "https://wallpaperaccess.com/full/486526.jpg"
+        "id": 5,
+        "name": "Model 3",
+        "engine": "Electric",
+        "email": "Winny_develop@gmail.com",
+        "phoneNumber": "+38 (098) 278 22 88",
+        "image": "https://wallpaperaccess.com/full/486526.jpg"
     },
     {
-      "id": 6,
-      "name": "Model S",
-      "engine": "Electric",
-      "email": "Simon@gmail.com",
-      "phoneNumber": "+38 (098) 278 44 00",
-      "image": "https://c4.wallpaperflare.com/wallpaper/98/321/301/black-tesla-model-s-2015-wallpaper-preview.jpg"
+        "id": 6,
+        "name": "Model S",
+        "engine": "Electric",
+        "email": "Simon@gmail.com",
+        "phoneNumber": "+38 (098) 278 44 00",
+        "image": "https://c4.wallpaperflare.com/wallpaper/98/321/301/black-tesla-model-s-2015-wallpaper-preview.jpg"
     },
     {
-      "id": 7,
-      "name": "Model S",
-      "engine": "Electric",
-      "email": "JeromeKlarkaJeromeKlarka19233623...",
-      "phoneNumber": "+38 (098) 278 76 24",
-      "image": "https://wallpaperaccess.com/full/1485627.jpg"
+        "id": 7,
+        "name": "Model S",
+        "engine": "Electric",
+        "email": "JeromeKlarkaJeromeKlarka19233623...",
+        "phoneNumber": "+38 (098) 278 76 24",
+        "image": "https://wallpaperaccess.com/full/1485627.jpg"
     },
     {
-      "id": 8,
-      "name": "Model Y",
-      "engine": "Electric",
-      "email": "Takamuru@gmail.com",
-      "phoneNumber": "+38 (098) 278 76 24",
-      "image": "https://wallpaperaccess.com/full/6983883.jpg"
+        "id": 8,
+        "name": "Model Y",
+        "engine": "Electric",
+        "email": "Takamuru@gmail.com",
+        "phoneNumber": "+38 (098) 278 76 24",
+        "image": "https://wallpaperaccess.com/full/6983883.jpg"
     },
     {
-      "id": 9,
-      "name": "Model Y",
-      "engine": "Electric",
-      "email": "Ilya_founder@gmail.com",
-      "phoneNumber": "+38 (098) 235 44 24",
-      "image": "https://www.hdcarwallpapers.com/walls/white_tesla_model_s-HD.jpg"
+        "id": 9,
+        "name": "Model Y",
+        "engine": "Electric",
+        "email": "Ilya_founder@gmail.com",
+        "phoneNumber": "+38 (098) 235 44 24",
+        "image": "https://www.hdcarwallpapers.com/walls/white_tesla_model_s-HD.jpg"
     },
     {
-      "id": 10,
-      "name": "Model S",
-      "engine": "Electric",
-      "email": "Alexandr_develop@gmail.com",
-      "phoneNumber": "+38 (098) 198 44 24",
-      "image": "https://c4.wallpaperflare.com/wallpaper/97/27/831/tesla-model-s-electric-car-4k-wallpaper-preview.jpg"
+        "id": 10,
+        "name": "Model S",
+        "engine": "Electric",
+        "email": "Alexandr_develop@gmail.com",
+        "phoneNumber": "+38 (098) 198 44 24",
+        "image": "https://c4.wallpaperflare.com/wallpaper/97/27/831/tesla-model-s-electric-car-4k-wallpaper-preview.jpg"
     },
     {
-      "id": 11,
-      "name": "Model S",
-      "engine": "Electric",
-      "email": "Winny_develop@gmail.com",
-      "phoneNumber": "+38 (098) 278 22 88",
-      "image": "https://wallpapercave.com/wp/wp1821211.jpg"
+        "id": 11,
+        "name": "Model S",
+        "engine": "Electric",
+        "email": "Winny_develop@gmail.com",
+        "phoneNumber": "+38 (098) 278 22 88",
+        "image": "https://wallpapercave.com/wp/wp1821211.jpg"
     },
     {
-      "id": 12,
-      "name": "Model S",
-      "engine": "Electric",
-      "email": "Simon@gmail.com",
-      "phoneNumber": "+38 (098) 278 44 00",
-      "image": "https://cdn.wallpapersafari.com/46/37/UKPw1D.png"
+        "id": 12,
+        "name": "Model S",
+        "engine": "Electric",
+        "email": "Simon@gmail.com",
+        "phoneNumber": "+38 (098) 278 44 00",
+        "image": "https://cdn.wallpapersafari.com/46/37/UKPw1D.png"
     }
-  ]
+]
+    
 }
